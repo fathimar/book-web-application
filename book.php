@@ -32,7 +32,7 @@
          </tr>
          <tr>
              <td></td>
-             <td><button name="btn" class="btn btn-info">submit</button></td>
+             <td><button name="btn" class="btn btn-primary">SUBMIT</button></td>
          </tr>
   </table>  
 
