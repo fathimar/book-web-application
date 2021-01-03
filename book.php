@@ -55,7 +55,8 @@ if($result===true)
 {
     echo "<script>alert('successfully inserted')</script>";
 }
-else{
+else
+{
     echo "<script>alert('error in insertion')</script>";
 }
 
